@@ -1,0 +1,16 @@
+---
+layout: post
+title: "How to excite a developer about a position"
+date: 2012-05-30 17:06
+comments: true
+categories: [Creativity, Job] 
+---
+Everyone who has tried to get a new software developer for his team lately, knows what I'm talking about. Especially in Germany the discussion about experts lacking is an ongoing one. But this discussion isn't one sided, there are also some who say that the lack isn't such a great one. I won't take a side in this article, but something I'm sure about is, that it's growing more difficult to get new good developers.  
+  
+Since there aren't that many good developers, one needs first to get their attention. This isn't done by another dull job ad like those I got by the dozen from the many headhunters contacting me. The ad needs to be something special and to show the difference from other positions and other companies. This isn't achieved by listing the skills needed for this position and a short description. The ad has to get the attention of the potential applicant at first glance. I would recommend a color ad. It's much easier to get the attention this way. Furthermore the ad has to appeal to the passion of the applicant. Her passion is programming, so it has to be something programming related, maybe some pseudo code? Probably not a single non-programmer will get it, but isn't this the way geeks work?  
+  
+After having raised the attention of your new staff member -yes he's gonna be your new staff member- you need an application process which is going to further raise the expectation of this really great developer. Since we've got a lot of attention, we're not gonna only attract those really good developers. At this point it would be really good that the application process could help us easily select the really great. On how many applications were you requested to program in order to get one step further (see [Joel's interviewing guide](http://joelonsoftware.com/articles/GuerrillaInterviewing3.html))? Personally I wasn't requested once (Okay, I lied, Amazon did). So everyone can apply, even someone who can't program. So maybe we should make this the entry point of the application process, know how to program. The application itself should be a program, along with all the needed documentation of course.  
+  
+This way any dedicated programer can make a really great showcase of his talent. In order not to make it too easy I would impose a programming language that isn't used that often in your area. Over here one could use Ruby or Groovy or something similar. This application system should guarantee some other things. First, the code from different persons should be comparable, I would recommend using some kind of programming Framework. Second, the application code should be easily retrieved, my recommendation: use a VCS (hopefully something more up-to-date than CVS). Last, the application code should be easily tested, I could imagine that the application integrates itself into an existing Web-Platform, thus even a non-programer can get an idea about the applicant.  
+  
+Do not think that a job ad like any other will get you the results you expect. Be creative in order to get creative people working for you.
