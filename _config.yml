@@ -8,3 +8,4 @@ email: boutta@gmail.com
 
 name: Christophe Boutter
 permalink: /blog/:year/:month/:day/:title
+feed: http://cboutter.github.io/blog/atom.xml
