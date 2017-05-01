@@ -7,3 +7,4 @@ description: I'm a german agilist, doing Java and dreaming about Ruby.
 email: boutta@gmail.com
 
 name: Christophe Boutter
+permalink: /blog/:year/:month/:day/:title
