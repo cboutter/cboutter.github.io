@@ -3,7 +3,6 @@ layout: post
 title: "Why Use A DVCS?"
 date: 2012-06-08 16:56
 comments: true
-categories: [Programming, Version Control]
 ---
 In the past years I often reflected about how to manage source code versioning in an optimal way. Not so long ago my mental model was kind of limited due to scarce tool support (at least non-commercial ones). Using Subversion (or even CVS) isn't what gets you to branch often. Branching isn't that hard, but merging is. But this brings further problems. Ever since using an iterative (read agile) development approach, I encountered unfinished features (or user stories) at the end of the iteration. Since non-delivery of the completed features wasn't an option at any time, the team had to remove the unfinished work from the product. The code remained unfinished in the repository, it was just disabled.  
   

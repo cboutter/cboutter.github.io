@@ -3,7 +3,6 @@ layout: post
 title: "Bestehende Software Refactoren Mit Hilfe Von TDD"
 date: 2012-12-18 17:11
 comments: true
-categories: [Programming, TDD, Refactoring]
 ---
 Wer als Entwickler schon mal das Glück hatte an einem neuen Projekt mitzuarbeiten, weiss wie schön das sein kann. Leider ist dies eher die Ausnahme. Der Normalfall ist der, dass man an einem schon bestehenden Softwaresystem arbeitet. Je nach Alter und Qualität des Codes findet man mehr oder weniger Tests vor. Der Regelfall ist eher der mit weniger Tests. Ich möchte für zwei Vorgehen schildern wie TDD das Arbeiten an Bestandscode vereinfachen kann. TDD bedeutet “Test Driven Development” oder auch Test First genannt. Konkret ist damit gemeint, dass man zuerst einen Test schreibt und der in der Folge entstehende Code diesen Test verifiziert. Dieser Artikel soll keine Einleitung zu TDD sein, wer mehr wissen will findet bei [Wikipedia](http://de.wikipedia.org/wiki/Testgetriebene_Entwicklung) einen guten Einstieg.  
   

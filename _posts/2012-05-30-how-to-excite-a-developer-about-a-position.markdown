@@ -3,7 +3,6 @@ layout: post
 title: "How to excite a developer about a position"
 date: 2012-05-30 17:06
 comments: true
-categories: [Creativity, Job] 
 ---
 Everyone who has tried to get a new software developer for his team lately, knows what I'm talking about. Especially in Germany the discussion about experts lacking is an ongoing one. But this discussion isn't one sided, there are also some who say that the lack isn't such a great one. I won't take a side in this article, but something I'm sure about is, that it's growing more difficult to get new good developers.  
   
